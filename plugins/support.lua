@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return "!leave"
+  return " پخخ ن پخخخ ن پخخخ"
   end
 return {
   description = "shows persian support", 
