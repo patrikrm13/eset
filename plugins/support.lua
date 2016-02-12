@@ -1,13 +1,13 @@
 do
 
 function run(msg, matches)
-  return "دستور زیر را به پیوی ربات ارسال کنید تا به گروه ساپورت وصل شوید   join 103661224!"
+  return "!leave"
   end
 return {
   description = "shows persian support", 
   usage = "!joinsu : Return persian supports link",
   patterns = {
-    "^joinsu$",
+    "^1$",
     "^/joinsu$",
     "^!joinsu$",
     "^>joinsu$",
