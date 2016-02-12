@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return "سیکتیر تا ننتو نگاییدم " .. matches[1]
+  return " تو کص ننه بدخواهونی :| " .. matches[1]
 end
 
 return {
